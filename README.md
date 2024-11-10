@@ -1,7 +1,7 @@
 # Raspberry-Touch-Screen
 A guide to adding touchscreen support for any Waveshare touchscreen display to various OSes.
 
-This apparently works on any OS with a /boot/firmware/config.txt, or if the OS is _very_ old, /boot/config.txt, but I have yet to check evry single OS, for obvious reasons.
+This apparently works on any OS with a /boot/firmware/config.txt, or if the OS is _very_ old, /boot/config.txt, but I have yet to check every single OS, for obvious reasons.
 
 # Options:
 
@@ -27,7 +27,7 @@ Tested OSes for adding to the /boot/config.txt:
 * Android 9 (Lineage 16.0) by KonstaKANG
   - no need to add, just uncomment line below #Waveshare touchscreen
   - requires screen calibration
-
+* RISC OS Pi
 
 Tested OSes for the repo:
 * Ubuntu
@@ -39,7 +39,6 @@ Theoretically Supported OSes:
 * Ultramarine Linux
 * LibreELEC
 * OpenELEC
-* RISC OS Pi
 * OSMC
 * Recalbox
 * RetroPie
