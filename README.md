@@ -1,4 +1,10 @@
 # Raspberry-Touch-Screen
+
+---
+This has been added to my [website](https://nellowtcs.github.io/), so the repo was archived.
+Visit it at https://nellowtcs.github.io/guide/Raspberry-Pi-And-Waveshare-Displays/
+---
+
 A guide to adding touchscreen support for any Waveshare touchscreen display to various OSes.
 
 This apparently works on any OS with a /boot/firmware/config.txt, or if the OS is _very_ old, /boot/config.txt, but I have yet to check every single OS, for obvious reasons.
